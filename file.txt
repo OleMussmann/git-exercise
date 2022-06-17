@@ -1,3 +1,2 @@
-I have many lines now
-see?
-even a third!
+Now I only have two
+this is the second line
